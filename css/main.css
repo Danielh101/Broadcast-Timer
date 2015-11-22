@@ -1,0 +1,21 @@
+body{
+	background-color: #00FF12; 
+}
+
+@font-face {
+    font-family: "big";
+    src: url(fonts/big_noodle_titling.ttf) format("truetype");
+
+}
+
+#time {
+	margin: auto;
+	margin-left: auto;
+	margin-right: auto; 
+	margin-bottom: auto; 
+	color: white;
+	font-size: 100px;
+	font-family: 'Oswald', sans-serif;
+	src: url(fonts/big_noodle_titling.ttf) format("truetype");
+}
+
