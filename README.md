@@ -1,6 +1,6 @@
 # Broadcast-Timer
 A little webpage that you can put in your OBS to countdown your stream. 
-
+If you use this please give me credit and make a command linking them back to my github Thank you. 
 
 # How to use!
 
