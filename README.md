@@ -15,4 +15,4 @@ select Chroma Key and you should be good to go!
 
 Before you change the time close  Open Broadcaster Sowftware Or Xsplit Please!
 Go and open index.html in notepad or notepad++ look for //Change TIME!. Where you see the 5 you can change it to 10, 20 etc minutes
-then
+then you should be good to go. 
