@@ -3,5 +3,9 @@ A little webpage that you can put in your OBS to countdown your stream.
 
 
 # How to use!
+#Open Broadcaster Sowftware 
 You will need to CLR Browser for OBS https://goo.gl/31IUS6 then you just put the link to the clr browser and you are ready to go! 
 Find the Change Time and under it you will be able to change the time. 
+# Xsplit
+Here are the steps you need to install it in Xsplit. First you have to go to Add then click on other. After it added you will need to chroma key it right click on it Click on Color and 
+select Chroma Key and you should be good to go!
